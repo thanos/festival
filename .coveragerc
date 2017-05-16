@@ -1,0 +1,10 @@
+[run]
+branch = True
+omit = *migrations*,
+       *urls*,
+       *test*,
+       *admin*,
+       ./festival/config/*,
+       ./festival/manage.py,
+       ./festival/wsgi.py,
+       *__init__*

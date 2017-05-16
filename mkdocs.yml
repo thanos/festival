@@ -1,0 +1,11 @@
+site_name: festival
+site_description: A django art, film, music or whatever festival
+repo_url: https://github.com/thanos/festival
+site_dir: site
+copyright: Copyright &copy; 2015, <a href="https://github.com/thanos">thanos</a>.
+
+pages:
+  - Home: 'index.md'
+  - API:
+    - Authentication: 'api/authentication.md'
+    - Users: 'api/users.md'
